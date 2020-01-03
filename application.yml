@@ -1,5 +1,6 @@
 server:
   port: 8008989333
+  port: 8008888
 spring:
   application:
     name: item-service
